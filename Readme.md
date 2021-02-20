@@ -12,7 +12,7 @@ We are in dire need of new developers of any kind. If you can code a little, or 
 logos for the player and images for the file associations, or you can create/maintain the main
 website, please join our [Telegram](https://pastebin.com/raw/qES6AsnU) and talk to us. Any help is always appreciated.
 
-If you find a problem please send an [pull request](https://github.com/itsrucky/mpm-hc/issues)
+If you find a problem please send an [issue](https://github.com/itsrucky/mpm-hc/issues)
 
 *We care about keeping an open project open and free for contributions wherever they may come from.*
 
