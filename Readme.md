@@ -1,20 +1,18 @@
-# Media Player Classic - Home Cinema
+# Media Player Modern - Home Cinema
 
 [![GitHub Tag](https://img.shields.io/github/tag/mpc-hc/mpc-hc.svg?label=version)](https://github.com/mpc-hc/mpc-hc)
 [![Coverity Scan Build Status](https://img.shields.io/coverity/scan/259.svg)](https://scan.coverity.com/projects/259)
 
 
 Media Player Classic - Home Cinema (MPC-HC) is a free and open-source (OSS) video
-and audio player for Windows. MPC-HC is based on the original Guliverkli project
+and audio player for Windows. MPM-HC is based on the original MPC-HC project
 and contains many additional features and bug fixes.
 
 We are in dire need of new developers of any kind. If you can code a little, or you can create
 logos for the player and images for the file associations, or you can create/maintain the main
-website, please join our IRC channel and talk to us. Any help is always appreciated.
+website, please join our [Telegram](https://pastebin.com/raw/qES6AsnU) and talk to us. Any help is always appreciated.
 
-Find some easy ticket on our Trac, fix the problem, send a [pull request](https://github.com/mpc-hc/mpc-hc/pulls),
-or post the patch on [Trac](https://trac.mpc-hc.org/) or come on IRC and we'll review it for you.
-See [CONTRIBUTING.md](/CONTRIBUTING.md) for more info.
+If you find a problem please send an [pull request](https://github.com/itsrucky/mpm-hc/issues)
 
 *We care about keeping an open project open and free for contributions wherever they may come from.*
 
@@ -43,13 +41,11 @@ See [CONTRIBUTING.md](/CONTRIBUTING.md) for more info.
 
 ## Links
 
-* [Website](https://mpc-hc.org/)
-* [Source code](https://github.com/mpc-hc)
-* [Support Trac](https://trac.mpc-hc.org/)
-* IRC Channel: [#mpc-hc](https://webchat.freenode.net/?randomnick=1&channels=mpc-hc&prompt=1&uio=d4)
-  / [#mpc-hc-dev](https://webchat.freenode.net/?randomnick=1&channels=mpc-hc-dev&prompt=1&uio=d4) at [Freenode](https://freenode.net/)
-* [Donations](https://mpc-hc.org/donate/)
-* [Translations](https://www.transifex.com/mpc-hc/mpc-hc/)
+* [Website](https://itsrucky.github.io/mpm-hc)
+* [Source code](https://github.com/itsrucky/mpm-hc)
+* [Telegram](https://pastebin.com/raw/qES6AsnU)
+* [Donations](https://www.buymeacoffee.com/itsrucky)
+* [Translations](https://pastebin.com/raw/9jhKtZy4)
 
 
 For the people involved in the development, see [Authors.txt](/docs/Authors.txt).
