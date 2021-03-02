@@ -4,7 +4,7 @@
 [![Coverity Scan Build Status](https://img.shields.io/coverity/scan/259.svg)](https://scan.coverity.com/projects/259)
 
 
-Media Player Classic - Home Cinema (MPM-HC) is a free and open-source (OSS) video
+Media Player Modern - Home Cinema (MPM-HC) is a free and open-source (OSS) video
 and audio player for Windows. MPM-HC is based on the original MPC-HC project
 and contains many additional features and bug fixes.
 
